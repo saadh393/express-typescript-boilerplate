@@ -1,5 +1,5 @@
 {
-  "name": "auth-service",
+  "name": "express-typescript-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,14 @@
     "lint:fix": "eslint . --ext .ts --fix",
     "format": "prettier --write ."
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "express",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "Saad Hasan",
+  "license": "MIT",
+  "description": "A scalable, linted, and production-ready Express.js boilerplate built with TypeScript. Designed to bootstrap your dream projects quickly — with sensible defaults, clear structure, and modern developer tooling.",
   "devDependencies": {
     "@eslint/js": "^9.37.0",
     "@tsconfig/node20": "^20.1.6",
