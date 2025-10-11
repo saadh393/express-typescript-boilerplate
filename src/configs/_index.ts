@@ -1,9 +1,9 @@
-import { corsOptions } from "./cors-config";
-import ENV from "./envs-config";
+import { corsOptions } from './cors-config';
+import ENV from './envs-config';
 
 const config = {
-    corsOptions,
-    ENV,
+  corsOptions,
+  ENV,
 };
 
 export default config;
